@@ -17,7 +17,8 @@ Maintainer: Damen Challet <damien.challet@gmail.com>
 \references{
 Tumminello, M., Micciche, S., Lillo, F., Piilo, J., & Mantegna, R. N. (2011). Statistically validated networks in bipartite complex systems. PloS one, 6(3), e17994.
 }
-\keyword{ network, synchronization }
+\concept{network}
+\concept{synchronization}
 \seealso{
 \pkg{igraph}
 }
